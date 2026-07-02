@@ -1,0 +1,18 @@
+{
+    "skills": [],
+    "minimum_experience": 0,
+    "mandatory": [],
+    "preferred": [],
+    "negative": [],
+    "production": [],
+    "startup": [],
+    "weights": {
+        "semantic_similarity": 35,
+        "production_experience": 25,
+        "behavioral_signals": 15,
+        "career_progression": 10,
+        "startup_mindset": 5,
+        "education": 5,
+        "certifications": 5
+    }
+}
